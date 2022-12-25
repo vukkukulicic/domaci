@@ -1,0 +1,15 @@
+table{
+    width: 80%;
+    margin: 5% 10%;
+    border-collapse: collapse;
+}
+
+tr:nth-child(odd){
+    background-color: #E9ECEF;
+}
+
+tr:first-child {
+    background-color: white;
+    border: 1px solid;
+    border-color: black;
+}
